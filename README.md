@@ -11,23 +11,23 @@ I’m now focused on mastering Android (Compose, Material3, secure flows) and bu
 
 ## Finished Projects
 ### Battery Notifier
-- Problem:** Users often overcharge or undercharge their phones, reducing battery health.  
-- Solution:** Built an app that notifies users at 40% (unplug) and 20% (recharge).  
-- Tech Stack:** Kotlin, Android Services, Notifications API.  
-- My Role:** Designed and implemented the full app logic and UI.  
+- Problem: Users often overcharge or undercharge their phones, reducing battery health.  
+- Solution: Built an app that notifies users at 40% (unplug) and 20% (recharge).  
+- Tech Stack: Kotlin, Android Services, Notifications API.  
+- My Role: Designed and implemented the full app logic and UI.  
 
 ### Application Lock
-- Problem:** Users need lightweight app‑level security.  
-- Solution:** Built an app lock with PIN authentication.  
-- Tech Stack:** Kotlin, Compose, EncryptedSharedPreferences.  
-- My Role:** Full implementation and UI/UX design.  
+- Problem: Users need lightweight app‑level security.  
+- Solution: Built an app lock with PIN authentication.  
+- Tech Stack: Kotlin, Compose, EncryptedSharedPreferences.  
+- My Role: Full implementation and UI/UX design.  
 
 ---
 
 ## Ongoing Projects
-- Mobile Reports Lite** – Crash‑free skeleton with tabular detail screens.  
-- Expense Tracker** – Secure, minimal tracker with Compose + Material3.  
-- APO2 Inspection** – Inspection app with scrollable layouts, tabular summaries, and evolving requirements for new columns/fields.  
+- Mobile Reports Lite – Crash‑free skeleton with tabular detail screens.  
+- Expense Tracker – Secure, minimal tracker with Compose + Material3.  
+- APO2 Inspection – Inspection app with scrollable layouts, tabular summaries, and evolving requirements for new columns/fields.  
 
 
 ---

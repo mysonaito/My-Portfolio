@@ -42,3 +42,4 @@ I’m now focused on mastering Android (Compose, Material3, secure flows) and bu
 ## Contact
 - Email: jcedrickasad00@gmail.com
 - GitHub: https://github.com/mysonaito
+- LinkedIn: https://www.linkedin.com/in/john-cedrick-asad-a2a3502bb/
